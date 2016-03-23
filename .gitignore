@@ -1,0 +1,37 @@
+#Folders
+GeoCodeSample/GeoCode.Contracts/obj/
+GeoCodeSample/GeoCode.Contracts/bin/
+
+GeoCodeSample/GeoCode.Services/obj/
+GeoCodeSample/GeoCode.Services/bin/
+
+GeoCodeSample/GeoCode.Tests/obj/
+GeoCodeSample/GeoCode.Tests/bin/
+
+GeoCodeSample/.nuget/
+
+GeoLib.Core/obj/
+GeoLib.Core/bin/
+
+GeoLib.Data/obj/
+GeoLib.Data/bin/
+
+GeoCodeSample/packages/
+!GeoCodeSample/packages/repositories.config
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.DotSettings
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.dll
+*.pdb
+*.exe
